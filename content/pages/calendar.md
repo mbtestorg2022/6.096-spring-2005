@@ -4,18 +4,177 @@ title: Calendar
 uid: 00b5a400-e830-d80e-5865-e31e9107f1e2
 ---
 
-| Lec # | Topics | key dates |
-| --- | --- | --- |
-| 1 | Introduction and Biological Databases |  |
-| 2 | Rapid Database Search (Hashing) |  |
-| 3 | Regulatory Motif Discovery (Combinatorial Search) | Assignment 1 out |
-| 4 | Probabilistic Motif Finding (Gibbs Sampling) |  |
-| 5 | Sequence Alignment (Dynamic Programming) | Assignment 1 due |
-| 6 | Markov Chains and Hidden Markov Models |  |
-| 7 | Gene Finding |  |
-| 8 | Genome Evolution and Phylogenetic Trees | Assignment 2 out |
-| 9 | Genome Duplication |  |
-| 10 | Gene Expression Clustering |  |
-| 11-12 | Gene Network and Inference | Assignment 2 due |
-| 13 | Scale-free Networks | Assignment 3 due |
-| 14 | Comparative Genomics | Assignment 4 due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Lec #
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+{{< thopen >}}
+key dates
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction and Biological Databases
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Rapid Database Search (Hashing)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Regulatory Motif Discovery (Combinatorial Search)
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 1 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Probabilistic Motif Finding (Gibbs Sampling)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Sequence Alignment (Dynamic Programming)
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Markov Chains and Hidden Markov Models
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Gene Finding
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Genome Evolution and Phylogenetic Trees
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 2 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Genome Duplication
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Gene Expression Clustering
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11-12
+{{< tdclose >}}
+{{< tdopen >}}
+Gene Network and Inference
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Scale-free Networks
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Comparative Genomics
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
