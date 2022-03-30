@@ -5,6 +5,7 @@ description: This file explains challenges in computational biology including bi
   solutions.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-096-algorithms-for-computational-biology-spring-2005/8d52690ff17ed77873ce923c07973b58_lecture3.pdf
 file_type: application/pdf
+parent_uid: 123b3b1e-7ddd-89e6-ccd4-c65060bae6e9
 resourcetype: Document
 title: lecture3.pdf
 uid: 8d52690f-f17e-d778-73ce-923c07973b58

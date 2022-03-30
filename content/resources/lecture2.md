@@ -4,6 +4,7 @@ description: This file explains setup, the BLAST algorithm, BLAST extensions, su
   matrices, K-mers, and applications for BLAST and database search.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-096-algorithms-for-computational-biology-spring-2005/443a6b7a84e47e24c37be28763b936ff_lecture2.pdf
 file_type: application/pdf
+parent_uid: 123b3b1e-7ddd-89e6-ccd4-c65060bae6e9
 resourcetype: Document
 title: lecture2.pdf
 uid: 443a6b7a-84e4-7e24-c37b-e28763b936ff

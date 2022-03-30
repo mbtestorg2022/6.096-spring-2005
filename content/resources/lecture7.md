@@ -8,6 +8,7 @@ description: 'This file explains challenges in computational biology, markov cha
   viterbi exon-intron locator.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-096-algorithms-for-computational-biology-spring-2005/c48f8fdb8e1ff0cb6336e5b9b6cab23f_lecture7.pdf
 file_type: application/pdf
+parent_uid: 123b3b1e-7ddd-89e6-ccd4-c65060bae6e9
 resourcetype: Document
 title: lecture7.pdf
 uid: c48f8fdb-8e1f-f0cb-6336-e5b9b6cab23f
